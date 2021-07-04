@@ -1,0 +1,6 @@
+{
+    appId: "1:639392749741:web:5140dd3b811f8db967ce24",
+    apiKey: "AIzaSyDX14FsKawRRPY_Ku6D6V5BzSNSsNuIOeI",
+    projectId: "fantasyyeye-s-blog",
+    messagingSenderId: "639392749741",
+  }
