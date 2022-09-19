@@ -1,0 +1,4 @@
+key store path: C:\Users\govek\OneDrive\Documents\Repository\charge-detector\key.jks
+key store password: messaihester7
+key alias: key0
+key password: messaihester7
